@@ -5,6 +5,8 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
+System.out.println("This is from Gitstuffs");
+
 public class stepDefination {
       
 	@Given("^I live in Dublin with 2 adults and 2 kids$")
